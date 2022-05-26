@@ -5,7 +5,7 @@ Atuo a três anos, considerando o tempo de estágio, no setor de instrumentaçã
 Resumo como dev:
 
 Cursando o 3° Semestre de Engenharia de Software na faculdade Cruzeiro do Sul (modalidade EAD) e estudando desde set/2019 através do Pacote Fullstack da plataforma Danki Code com ênfase em desenvolvimento web. 
-Conhecimento e desenvolvimento de projetos pessoais utilizando as tecnologias HTML, CSS, PHP, JavaScript, Python utilizando banco de dados MySQL(principalmente), mongoDB, Firebase e iniciando os estudos em NodeJS. 
+Conhecimento e desenvolvimento de projetos pessoais utilizando as tecnologias HTML, CSS, PHP, JavaScript, Python utilizando banco de dados MySQL(principalmente), mongoDB, Firebase e iniciando os estudos em NodeJS por meio do bootcamp Santander com trilha completa em Java e Angular(https://app.becas-santander.com/pt-BR/program/bolsas-santander-tecnologia-santander-bootcamp-2022). 
 
 Site desenvolvido em projeto free-lancer: https://iarapires.com.br/
 
