@@ -4,7 +4,7 @@ Atuo a três anos, considerando o tempo de estágio, no setor de instrumentaçã
 
 Resumo como dev:
 
-Cursando o 4° Semestre de Engenharia de Software na faculdade Cruzeiro do Sul e estudando desde set/2019 através do Pacote Fullstack da plataforma Danki Code e DIO com ênfase em desenvolvimento web. 
+Cursando o 4° Semestre de Engenharia de Software na faculdade Cruzeiro do Sul e estudando desde 2019 através do Pacote Fullstack da plataforma Danki Code e DIO com ênfase em desenvolvimento web. 
 Desenvolvimento de projetos pessoais utilizando as tecnologias HTML, CSS, JavaScript, PHP, Python utilizando banco de dados MySQL(principalmente), mongoDB, Firebase e conhecimento em desenvolvimento de sistemas utilizando Angular no Front-end e Node com Express no Back-end. 
 
 Site desenvolvido em projeto free-lancer: https://iarapires.com.br/
