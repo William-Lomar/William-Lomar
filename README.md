@@ -9,7 +9,7 @@ Desenvolvimento de projetos pessoais utilizando as tecnologias HTML, CSS, JavaSc
 
 Site desenvolvido em projeto free-lancer: https://iarapires.com.br/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Lomar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Lomar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 William-Lomar/William-Lomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
